@@ -4,6 +4,7 @@
 body{
   background-color: #101010;
   font-family: 'Montserrat', sans-serif;
+  color: white;
 }
 .primary-btn{
   background-color: #00ffb9;
@@ -11,8 +12,11 @@ body{
   border-radius: 0;
   color: #101010;
 }
+.text-prm{
+  color:#00ffb9;
+}
 .nav-link{
-font-size: 18px;
+font-size: 16px;
 }
 .primary-btn:hover{
   background:none;
@@ -31,6 +35,34 @@ font-size: 18px;
 .secondary-btn:hover{
   background-color: #00ffb9;
   border: 2px solid #00ffb9;
+  border-radius: 0;
+  color: #101010;
+  transition-duration: .5s;
+}
+
+.secondary-btn{
+  background:none;
+  border: 2px solid #00ffb9;
+  border-radius: 0;
+  color: #00ffb9;
+}
+.secondary-btn:hover{
+  background-color: #00ffb9;
+  border: 2px solid #00ffb9;
+  border-radius: 0;
+  color: #101010;
+  transition-duration: .5s;
+}
+
+.tertiary-btn{
+  background:none;
+  border: 2px solid white;
+  border-radius: 0;
+  color: white;
+}
+.tertiary-btn:hover{
+  background-color: white;
+  border: 2px solid white;
   border-radius: 0;
   color: #101010;
   transition-duration: .5s;
