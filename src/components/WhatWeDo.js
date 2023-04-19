@@ -6,7 +6,7 @@ export default function WhatWeDo() {
             <h2 className="display-5 fw-bold">What we do</h2>
             <div id="custom-cards">
                 <div className="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-4">
-                    <div className="col" >
+                    <div className="col" data-aos="fade-up" >
                         <div className="card card-cover h-100 overflow-hidden shadow-lg" style={{ 'background': 'none', 'border': '1px solid #00ffb9' }}>
                             <div className="d-flex flex-column h-100 p-4 pb-3 text-white text-shadow-1">
                                 <h2 className="lead fw-bold d-flex align-items-center gap-3"><span style={{ fontSize: '42px' }} className="material-symbols-outlined">
@@ -17,7 +17,7 @@ export default function WhatWeDo() {
                         </div>
                     </div>
 
-                    <div className="col">
+                    <div className="col" data-aos="fade-up" >
                         <div className="card card-cover h-100 overflow-hidden shadow-lg" style={{ 'background': '#00ffb9', 'border': '2px solid #00ffb9' }}>
                             <div className="d-flex flex-column h-100 p-4 pb-3 text-dark text-shadow-1">
                                 <h2 className="lead fw-bold d-flex align-items-center gap-3"><span className="material-symbols-outlined" style={{ fontSize: '42px' }}>
@@ -28,7 +28,7 @@ export default function WhatWeDo() {
                         </div>
                     </div>
 
-                    <div className="col">
+                    <div className="col" data-aos="fade-up" >
                         <div className="card card-cover h-100 overflow-hidden shadow-lg" style={{ 'background': 'none', 'border': '2px solid #00ffb9' }}>
                             <div className="d-flex flex-column h-100 p-4 pb-3 text-white text-shadow-1">
                                 <h2 className="lead fw-bold d-flex align-items-center gap-3"><span className="material-symbols-outlined" style={{ fontSize: '42px' }}>
@@ -39,7 +39,7 @@ export default function WhatWeDo() {
                         </div>
                     </div>
 
-                    <div className="col">
+                    <div className="col" data-aos="fade-up">
                         <div className="card card-cover h-100 overflow-hidden shadow-lg" style={{ 'background': 'none', 'border': '2px solid #00ffb9'}}>
                         <div className="d-flex flex-column h-100 p-4 pb-3 text-white text-shadow-1">
                                 <h2 className="lead fw-bold d-flex align-items-center gap-3"><span className="material-symbols-outlined" style={{ fontSize: '42px' }}>
