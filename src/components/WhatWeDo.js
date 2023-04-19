@@ -3,9 +3,9 @@ import React from 'react'
 export default function WhatWeDo() {
     return (
         <div className='mt-3 mt-md-5'>
-            <h2 className="display-6 fw-bold">What we do</h2>
+            <h2 className="display-5 fw-bold">What we do</h2>
             <div id="custom-cards">
-                <div className="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-3">
+                <div className="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-4">
                     <div className="col" >
                         <div className="card card-cover h-100 overflow-hidden shadow-lg" style={{ 'background': 'none', 'border': '1px solid #00ffb9' }}>
                             <div className="d-flex flex-column h-100 p-4 pb-3 text-white text-shadow-1">
