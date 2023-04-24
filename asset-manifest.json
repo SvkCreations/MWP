@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/MWP/static/css/main.75f46d07.css",
-    "main.js": "/MWP/static/js/main.5cfdde62.js",
+    "main.css": "/MWP/static/css/main.9e1a8cb3.css",
+    "main.js": "/MWP/static/js/main.2c8e9873.js",
     "static/js/787.99d63e41.chunk.js": "/MWP/static/js/787.99d63e41.chunk.js",
+    "static/media/Work - 2.png": "/MWP/static/media/Work - 2.c6c7445ef61edf2da9d9.png",
+    "static/media/Work - 1.png": "/MWP/static/media/Work - 1.c523ae34a78c579d31f0.png",
     "static/media/main-bg.png": "/MWP/static/media/main-bg.cf1535d91455e5f6a794.png",
     "static/media/whyus-bg.png": "/MWP/static/media/whyus-bg.f8f5dc9d4bbb49aaccbc.png",
+    "static/media/contact-bg.png": "/MWP/static/media/contact-bg.bb931d8b338fe5f6fcff.png",
     "static/media/Logo-black.png": "/MWP/static/media/Logo-black.b0528109fecb176818e9.png",
     "static/media/Logo.png": "/MWP/static/media/Logo.c203d9759357a5980676.png",
     "index.html": "/MWP/index.html",
-    "main.75f46d07.css.map": "/MWP/static/css/main.75f46d07.css.map",
-    "main.5cfdde62.js.map": "/MWP/static/js/main.5cfdde62.js.map",
+    "main.9e1a8cb3.css.map": "/MWP/static/css/main.9e1a8cb3.css.map",
+    "main.2c8e9873.js.map": "/MWP/static/js/main.2c8e9873.js.map",
     "787.99d63e41.chunk.js.map": "/MWP/static/js/787.99d63e41.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.75f46d07.css",
-    "static/js/main.5cfdde62.js"
+    "static/css/main.9e1a8cb3.css",
+    "static/js/main.2c8e9873.js"
   ]
 }
