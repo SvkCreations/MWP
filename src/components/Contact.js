@@ -4,7 +4,7 @@ import img from '../contact-bg.png'
 export default function Contact() {
     return (
         <div>
-            <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
+            <div className="row flex-lg-row-reverse align-items-center mt-0 mt-md-4 g-5 py-5">
                 <div className="col-12 col-sm-12 col-lg-5 order-md-2 me-auto">
                     <img src={img} className="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" loading="lazy" />
                 </div>
