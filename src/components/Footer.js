@@ -4,7 +4,7 @@ import logo from '../Logo-black.png';
 export default function Footer() {
   return (
     <div style={{backgroundColor:'#00ffb9'}} className='mt-5'>
-      <footer className="pt-5 px-4 px-md-5">
+      <footer className="pt-5 px-4 px-md-5" data-aos="fade-up">
     <div className="row px-md-5">
       <div className="col-12 col-md-3 mb-3">
         <ul className="nav flex-column">

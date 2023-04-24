@@ -3,7 +3,7 @@ import React from 'react'
 export default function WhatWeDo() {
     return (
         <div className='mt-3 mt-md-5'>
-            <h2 className="display-5 fw-bold">What we do</h2>
+            <h2 className="display-4 fw-bold">What we do</h2>
             <div id="custom-cards">
                 <div className="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-4">
                     <div className="col" data-aos="fade-up" >
